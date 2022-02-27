@@ -21,7 +21,8 @@ Since boundary finding can be a fluid process, if you wish to have a stricter po
 Some of these rules may be bendable depending on the situation and the admins. For instance, if a player wanted to enforce a no trespassing policy on their land but didn’t put up well-defined borders, it may be that the infringing player may not know they have done anything wrong and the admins may determine a simple warning.  
 Property damage, or griefing, may be as much as adding or removing a few blocks. Just remember that this is someones safe space that they've worked hard to maintain.  
 In general, violations of property damage may incur a sentence requiring the offender to reverse all damages to their original state and a fine. this may change based on the situation.  
-Trespassing may incur a fee.
+Trespassing may incur a fee.  
+something something ban/kcik
 
 ### Spawn
 Server spawn area is generally a special kind of territory set aside for all players to pass through.
@@ -37,4 +38,7 @@ Punching someone with a fist, or even sometimes with a sword, can be on accident
 -todo  
 
 ## Cheating
+-todo
+
+# Operator Guidelines
 -todo
