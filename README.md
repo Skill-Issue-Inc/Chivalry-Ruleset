@@ -11,10 +11,10 @@ In general if a piece of land seems modified in any meaningful way, it's probabl
 
 ### Ownership Powers
 A player with ownership powers over a section of the world has absolute say about it second to the server admins. There are several states they can put their land into that will affect how other players may interact with it. In general one may define their own policy, but here some common examples:  
-  -**No Trespassing** - No player may physically travel onto this land or remotely affect this land in any way without explicit permission.  
-  -**View only while present** - Players may freely travel onto this land only when the owner is present to supervise. Guests still must not modify in any way (including opening chests - must be enforced) the land without explicit permission.  
-  -**View only** - Same as the above but the owner need not be present.  
-  -**Public** - Players may travel through and modify the land without permission. 
+-**Public** - Players may travel through and modify the land without permission. 
+-**View only** - Same as the above but the owner need not be present.  
+-**View only while present** - Players may freely travel onto this land only when the owner is present to supervise. Guests still must not modify in any way (including opening chests - must be enforced) the land without explicit permission.  
+-**No Trespassing** - No player may physically travel onto this land or remotely affect this land in any way without explicit permission. In order to enforce this in any way the owner would likely have to make it very clear where their boundaries are and what the policy is.  
 Since boundary finding can be a fluid process, if you wish to have a stricter policy it may be wise to create a border that illustrates clearly the edge of the land and have clear markings/signs that convey what guests may do. This may or may not be required at the discretion of the admins.
 
 ### Violations
