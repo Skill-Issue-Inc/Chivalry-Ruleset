@@ -11,10 +11,10 @@ In general if a piece of land seems modified in any meaningful way, it's probabl
 
 ### Ownership Powers
 A player with ownership powers over a section of the world has absolute say about it second to the server admins. There are several states they can put their land into that will affect how other players may interact with it. In general one may define their own policy, but here some common examples:  
--**No Trespassing** - No player may physically travel onto this land or remotely affect this land in any way without explicit permission.  
--**View only while present** - Players may freely travel onto this land only when the owner is present to supervise. Guests still must not modify in any way (including opening chests - must be enforced) the land without explicit permission.  
--**View only** - Same as the above but the owner need not be present.  
--**Public** - Players may travel through and modify the land without permission. 
+  -**No Trespassing** - No player may physically travel onto this land or remotely affect this land in any way without explicit permission.  
+  -**View only while present** - Players may freely travel onto this land only when the owner is present to supervise. Guests still must not modify in any way (including opening  chests - must be enforced) the land without explicit permission.  
+  -**View only** - Same as the above but the owner need not be present.  
+  -**Public** - Players may travel through and modify the land without permission. 
 Since boundary finding can be a fluid process, if you wish to have a stricter policy it may be wise to create a border that illustrates clearly the edge of the land and have clear markings/signs that convey what guests may do. This may or may not be required at the discretion of the admins.
 
 ### Violations
@@ -30,16 +30,19 @@ Server spawn area is generally a special kind of territory set aside for all pla
 ### Items
 In general if something seems modified from its original state it may belong to someone. Items on a player's property have special protections. Items elsewhere that obviously belong to someone *(ie a shulker box sitting somewhere or a diamond sword in a chest near a nether portal)* also are generally under protection.
 
-# Player damage and War Contracts
-For the purposes of war between official/established groups, a set of guidelines should be set between nations, overriding previously set regulations, including but not limited to griefing, stealing, and trespassing. If both parties were to agree, effectively all rules could be abandoned within established war zones, which changes in rules and policy for the purposes of the war would be limited to.
-
-Punching someone with a fist, or even sometimes with a sword, can be on accident at times.
+# Player damage
+--can use more--
+Punching someone with a fist, or even sometimes with a sword, can be on accident at times. That being said, nobody likes getting killed without their asking and this can be a serious crime. If however a player is being attacked illegaly and has explicitly stated they do not want to be attacked, they may attack back to defend themselves.
 
 # Nations/Groups
+-doto
 
+# War Contracts
+For the purposes of war between official/established groups, a set of guidelines can be set between nations, overriding previously set regulations, including but not limited to griefing, stealing, and trespassing. If both parties were to agree, effectively all rules could be abandoned within established war zones, which changes in rules and policy for the purposes of the war would be limited to.
 
-## Cheating
--todo
+## Hacking/Cheating
+This rule is at the descretion of the admins; by default, hacked clients that give major or medium assists are prohibited. Small QOL modifications like WAILA are fine, but for anything that would give you a leg up on other players (like a minimap) you should consult the admins. If hacking persists after being warned, kicks/bans may ensue.
 
 # Operator Guidelines
--todo
+*These are all general guidelines as the exact setup of the server is in the end, at the discression of the admins.*  
+It is necessary to have at least one operator on a server if only for moderation enforcement purposes. But in general operators should be very held back in the use of their privileges. For example, while it may be convenient and timely to TP people to each other at casual times, it may not be in line with the server spirit and may undermine the capabilities of players without operator permissions.
