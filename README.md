@@ -31,18 +31,19 @@ Server spawn area is generally a special kind of territory set aside for all pla
 In general if something seems modified from its original state it may belong to someone. Items on a player's property have special protections. Items elsewhere that obviously belong to someone *(ie a shulker box sitting somewhere or a diamond sword in a chest near a nether portal)* also are generally under protection.
 
 # Player damage
---can use more--
+--can use more--  
 Punching someone with a fist, or even sometimes with a sword, can be on accident at times. That being said, nobody likes getting killed without their asking and this can be a serious crime. If however a player is being attacked illegaly and has explicitly stated they do not want to be attacked, they may attack back to defend themselves.
 
 # Nations/Groups
--doto
+-todo
 
 # War Contracts
-For the purposes of war between official/established groups, a set of guidelines can be set between nations, overriding previously set regulations, including but not limited to griefing, stealing, and trespassing. If both parties were to agree, effectively all rules could be abandoned within established war zones, which changes in rules and policy for the purposes of the war would be limited to.
+"War contracts" or just policy contracts in general should be an essential part of an active server. To keep the server active, some players enjoy conflict or "a little trolling" from time to time. For the purposes of war between players or official/established groups/nations, a set of guidelines may be set between nations or individuals, overriding previously set regulations, including but not limited to griefing, stealing, and trespassing. If both parties were to agree, effectively all rules could be abandoned within established war zones, which changes in rules and policy for the purposes of the war would be limited to. effectively allowing nations to collectively determine "war crimes".  
+This ruleset is put into place to protect players who would like to opt out of such interactions. If a player would like to opt-in, they may accept/use various contracts/agreements to disable certain restrictions. There are many combinations for these but a common example would be a player who wants to live in anarchy might enact a policy that says "Any player may do anything to them and their property as long as they also have this agreement" thereby saying if another player agrees, they may both play with "all bets are off" anarchy style ruling.
 
 ## Hacking/Cheating
 This rule is at the descretion of the admins; by default, hacked clients that give major or medium assists are prohibited. Small QOL modifications like WAILA are fine, but for anything that would give you a leg up on other players (like a minimap) you should consult the admins. If hacking persists after being warned, kicks/bans may ensue.
 
 # Operator Guidelines
 *These are all general guidelines as the exact setup of the server is in the end, at the discression of the admins.*  
-It is necessary to have at least one operator on a server if only for moderation enforcement purposes. But in general operators should be very held back in the use of their privileges. For example, while it may be convenient and timely to TP people to each other at casual times, it may not be in line with the server spirit and may undermine the capabilities of players without operator permissions.
+It is necessary to have at least one operator on a server if only for moderation enforcement purposes. But in general operators should be very held back in the use of their privileges. For example, while it may be convenient and timely to TP people to each other at casual times, it may not be in line with the server spirit and may undermine the capabilities of players without operator permissions. **to continue**
